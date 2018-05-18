@@ -1,0 +1,3 @@
+Difficulty_Level:_EASY___________Score:_80
+Difficulty_Level:_HARD___________Score:_80
+Difficulty_Level:_SNAKE_KING___________Score:_60
